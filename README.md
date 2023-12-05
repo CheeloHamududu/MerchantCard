@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Merchant Card App is a mobile application designed to provide local business owners with a powerful tool for enhancing customer interaction, improving contactless experiences, and collecting product reviews. This README provides a guide on the app's creation process and highlights the potential benefits for local business owners.
+The Merchant Card App is a Web application designed to provide local business owners with a powerful tool for enhancing customer interaction, improving contactless experiences, and collecting product reviews. This README provides a guide on the app's creation process and highlights the potential benefits for local business owners.
 
 ## Getting Started
 
