@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MerchantCard", "MerchantCard.csproj", "{6A4F1C1B-90E0-425F-8521-2F9A48D1D022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A4F1C1B-90E0-425F-8521-2F9A48D1D022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4F1C1B-90E0-425F-8521-2F9A48D1D022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4F1C1B-90E0-425F-8521-2F9A48D1D022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4F1C1B-90E0-425F-8521-2F9A48D1D022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83444AC8-0FAE-4A68-864B-BB3712647356}
+	EndGlobalSection
+EndGlobal
