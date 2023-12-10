@@ -54,7 +54,7 @@ Integration with POS Systems: Enhance functionality by integrating the app with 
 Promotional Features: Incorporate promotional features, such as discounts and loyalty programs, to incentivize customer engagement.
 
 Contributing
-Contributions are welcome! Please follow our contribution guidelines.
+Contributions are welcome! Please follow the contribution guidelines.
 
 License
 This project is licensed under the MIT License.
